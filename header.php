@@ -6,5 +6,5 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <?php wp_head(); ?>
 </head>
-<body <?php body_class(); ?>>
+<body <?php body_class('bg-body'); ?>>
     <?php wp_body_open(); ?>    
