@@ -46,4 +46,82 @@
     </div>
 </section>
 
+<section>
+    <div class="container mx-auto text-center py-10">
+        <h5 class="text-org">
+            Nueva
+        </h5>
+        <h3 class="text-drk font-bold text-5xl pt-2">
+            MacBook Air de 15”
+        </h3>
+        <div class="text-drk">
+            <p class="font-semibold text-3xl pt-2">La más grande en peso ligero.</p>
+            <p class="text-lg pt-3">Desde $29,999. Paga a 6 meses sin intereses.*</p>
+        </div>
+        <div class="text-xl flex gap-5 justify-center items-center pt-2">
+            <button class="rounded-full bg-blu2 px-3 py-2 text-white">
+                Ver precios
+            </button>
+            <a href="" class="text-blu hover:underline"> Más información ></a>
+        </div>
+        <div class="text-gra">
+            <p class="pt-2">Consulta la disponibilidad más adelante</p>
+            <img class="mx-auto py-20" src="https://www.apple.com/v/mac/home/bu/images/overview/hero/macbook_air__f6z1e32o3866_medium.jpg" alt="img">
+        </div>
+    </div>
+</section>
+
+    <section>
+        <div class="flex border-x-8 bg-gry mx-auto">
+            <div class="container w-1/2 text-center text-drk border-r-8 border-white">
+                <h5 class="font-bold text-xl">Accesorios</h5>
+                <h3 class="font-bold text-3xl pt-2">Descubre accesorios para la Mac.</h3>
+                <button class="bg-blu2 text-white rounded-full px-5 py-2 mt-4">Comprar</button>
+                <div>
+                    <img class="mt-4" src="https://www.apple.com/mx/mac/home/images/overview/retail/accessories_tile__cybkm8f034uq_medium.jpg" alt="">
+                </div>
+            </div>
+            <div class="container w-1/2 text-center text-drk  border-l-8 border-white">
+                <h5 class="font-bold text-xl">Apple Trade In</h5>
+                <h3 class="font-bold text-3xl pt-2">Obtén crédito por tu Mac actual y cómprate una nueva.</h3>
+                <h6>Trae una computadora que cumpla con los requisitos y obtén crédito para comprar una Mac nueva. Y si ya no tiene valor, la reciclaremos gratis. Es bueno para ti y para el planeta.</h6>
+                <button class="text-blu">Descubre el valor de canje de tu dispositivo ></button>
+                <div>
+                    <img class="mx-auto mt-4" src="https://www.apple.com/v/mac/home/bu/images/overview/retail/trade_in_mac_tile__d67bvlqow1ua_medium.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section  class="bg-gry mt-8 py-2">
+            <div class="mx-auto">
+                <ul class="flex justify-center items-center gap-8">
+                    <li>
+                        <svg class="w-7 h-7 mx-auto" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M50.7 58.5L0 160H208V32H93.7C75.5 32 58.9 42.3 50.7 58.5zM240 160H448L397.3 58.5C389.1 42.3 372.5 32 354.3 32H240V160zm208 32H0V416c0 35.3 28.7 64 64 64H384c35.3 0 64-28.7 64-64V192z"/></svg>
+                        <div class="text-center">
+                            <p class="font-bold">Envio sin costo en todos los pedidos</p>
+                            <p>Y devoluciones sin costo</p>
+                            <a class="text-blu">Más información ></a>
+                        </div>
+                    </li>
+                    <li>
+                        <svg class="w-7 h-7 mx-auto" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><path d="M326.7 403.7c-22.1 8-45.9 12.3-70.7 12.3s-48.7-4.4-70.7-12.3c-.3-.1-.5-.2-.8-.3c-30-11-56.8-28.7-78.6-51.4C70 314.6 48 263.9 48 208C48 93.1 141.1 0 256 0S464 93.1 464 208c0 55.9-22 106.6-57.9 144c-1 1-2 2.1-3 3.1c-21.4 21.4-47.4 38.1-76.3 48.6zM256 91.9c-11.1 0-20.1 9-20.1 20.1v6c-5.6 1.2-10.9 2.9-15.9 5.1c-15 6.8-27.9 19.4-31.1 37.7c-1.8 10.2-.8 20 3.4 29c4.2 8.8 10.7 15 17.3 19.5c11.6 7.9 26.9 12.5 38.6 16l2.2 .7c13.9 4.2 23.4 7.4 29.3 11.7c2.5 1.8 3.4 3.2 3.7 4c.3 .8 .9 2.6 .2 6.7c-.6 3.5-2.5 6.4-8 8.8c-6.1 2.6-16 3.9-28.8 1.9c-6-1-16.7-4.6-26.2-7.9l0 0 0 0 0 0c-2.2-.7-4.3-1.5-6.4-2.1c-10.5-3.5-21.8 2.2-25.3 12.7s2.2 21.8 12.7 25.3c1.2 .4 2.7 .9 4.4 1.5c7.9 2.7 20.3 6.9 29.8 9.1V304c0 11.1 9 20.1 20.1 20.1s20.1-9 20.1-20.1v-5.5c5.3-1 10.5-2.5 15.4-4.6c15.7-6.7 28.4-19.7 31.6-38.7c1.8-10.4 1-20.3-3-29.4c-3.9-9-10.2-15.6-16.9-20.5c-12.2-8.8-28.3-13.7-40.4-17.4l-.8-.2c-14.2-4.3-23.8-7.3-29.9-11.4c-2.6-1.8-3.4-3-3.6-3.5c-.2-.3-.7-1.6-.1-5c.3-1.9 1.9-5.2 8.2-8.1c6.4-2.9 16.4-4.5 28.6-2.6c4.3 .7 17.9 3.3 21.7 4.3c10.7 2.8 21.6-3.5 24.5-14.2s-3.5-21.6-14.2-24.5c-4.4-1.2-14.4-3.2-21-4.4V112c0-11.1-9-20.1-20.1-20.1zM48 352H64c19.5 25.9 44 47.7 72.2 64H64v32H256 448V416H375.8c28.2-16.3 52.8-38.1 72.2-64h16c26.5 0 48 21.5 48 48v64c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V400c0-26.5 21.5-48 48-48z"/></svg>
+                        <div class="text-center">
+                            <p class="font-bold">Financiamiento</p>
+                            <p>Paga a seis meses sin intereses.</p>
+                            <a class="text-blu">Más información ></a>
+                        </div>
+                    </li>
+                    <li>
+                        <svg class="w-7 h-7 mx-auto" xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><path d="M208 352c114.9 0 208-78.8 208-176S322.9 0 208 0S0 78.8 0 176c0 38.6 14.7 74.3 39.6 103.4c-3.5 9.4-8.7 17.7-14.2 24.7c-4.8 6.2-9.7 11-13.3 14.3c-1.8 1.6-3.3 2.9-4.3 3.7c-.5 .4-.9 .7-1.1 .8l-.2 .2 0 0 0 0C1 327.2-1.4 334.4 .8 340.9S9.1 352 16 352c21.8 0 43.8-5.6 62.1-12.5c9.2-3.5 17.8-7.4 25.3-11.4C134.1 343.3 169.8 352 208 352zM448 176c0 112.3-99.1 196.9-216.5 207C255.8 457.4 336.4 512 432 512c38.2 0 73.9-8.7 104.7-23.9c7.5 4 16 7.9 25.2 11.4c18.3 6.9 40.3 12.5 62.1 12.5c6.9 0 13.1-4.5 15.2-11.1c2.1-6.6-.2-13.8-5.8-17.9l0 0 0 0-.2-.2c-.2-.2-.6-.4-1.1-.8c-1-.8-2.5-2-4.3-3.7c-3.6-3.3-8.5-8.1-13.3-14.3c-5.5-7-10.7-15.4-14.2-24.7c24.9-29 39.6-64.7 39.6-103.4c0-92.8-84.9-168.9-192.6-175.5c.4 5.1 .6 10.3 .6 15.5z"/></svg>
+                        <div class="text-center">
+                            <p class="font-bold">Compra con la ayuda de Especialistas</p>
+                            <p>Estamos aqui para ayudarte.</p>
+                            <a class="text-blu">Contáctanos</a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+    </section>
+
 <?php get_footer(); ?>
